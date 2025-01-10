@@ -3,3 +3,4 @@
 ## Jan 6 - Project folder structure setup
 ## Jan 7 - Research tech stack
 ## Jan 9 - Review MySQL schema
+## Jan 10 - Add foreign keys and indexes
