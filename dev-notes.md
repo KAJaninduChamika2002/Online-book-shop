@@ -44,3 +44,4 @@
 ## 2025-03-28 - Fix admin orders status update dropdown
 ## 2025-03-30 - Final testing and bug fixes across all pages
 ## 2025-01-04 - Review project requirements and wireframes
+## 2025-01-12 - Update database table column types
