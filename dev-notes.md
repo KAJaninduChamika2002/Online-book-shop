@@ -5,3 +5,4 @@
 ## Jan 9 - Review MySQL schema
 ## Jan 10 - Add foreign keys and indexes
 ## 2025-01-13 - Fix auth token expiry handling
+## 2025-01-15 - Add password validation middleware
