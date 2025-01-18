@@ -45,3 +45,4 @@
 ## 2025-03-30 - Final testing and bug fixes across all pages
 ## 2025-01-04 - Review project requirements and wireframes
 ## 2025-01-12 - Update database table column types
+## 2025-01-18 - Add indexes for query optimization
