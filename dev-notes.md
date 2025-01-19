@@ -46,3 +46,4 @@
 ## 2025-01-04 - Review project requirements and wireframes
 ## 2025-01-12 - Update database table column types
 ## 2025-01-18 - Add indexes for query optimization
+## 2025-01-19 - Write API endpoint documentation notes
