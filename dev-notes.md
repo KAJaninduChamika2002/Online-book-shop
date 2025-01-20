@@ -60,3 +60,4 @@
 ## 2025-03-22 - Polish admin table row hover styles
 ## 2025-01-08 - Optimize DB pool connection timeout settings
 ## 2025-01-14 - Add bcrypt salt rounds configuration
+## 2025-01-20 - Test order API with Postman collection
