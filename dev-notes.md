@@ -7,3 +7,4 @@
 ## 2025-01-13 - Fix auth token expiry handling
 ## 2025-01-15 - Add password validation middleware
 ## 2025-01-16 - Write user registration error handling
+## 2025-01-21 - Add product slug auto-generation logic
