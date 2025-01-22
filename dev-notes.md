@@ -8,3 +8,4 @@
 ## 2025-01-15 - Add password validation middleware
 ## 2025-01-16 - Write user registration error handling
 ## 2025-01-21 - Add product slug auto-generation logic
+## 2025-01-22 - Implement product search with LIKE query
