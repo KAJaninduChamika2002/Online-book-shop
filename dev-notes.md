@@ -62,3 +62,4 @@
 ## 2025-01-14 - Add bcrypt salt rounds configuration
 ## 2025-01-20 - Test order API with Postman collection
 ## 2025-01-29 - Add pagination to product list endpoint
+## 2025-02-03 - Configure Vite environment variables
