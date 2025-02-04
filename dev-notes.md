@@ -14,3 +14,4 @@
 ## 2025-01-28 - Add order number generation utility
 ## 2025-01-30 - Test and fix coupon discount calculation
 ## 2025-01-31 - Final backend API testing and fixes
+## 2025-02-04 - Set up React component folder structure
