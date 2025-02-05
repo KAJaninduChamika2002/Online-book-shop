@@ -15,3 +15,4 @@
 ## 2025-01-30 - Test and fix coupon discount calculation
 ## 2025-01-31 - Final backend API testing and fixes
 ## 2025-02-04 - Set up React component folder structure
+## 2025-02-05 - Install and configure frontend dependencies
