@@ -16,3 +16,4 @@
 ## 2025-01-31 - Final backend API testing and fixes
 ## 2025-02-04 - Set up React component folder structure
 ## 2025-02-05 - Install and configure frontend dependencies
+## 2025-02-07 - Add Google Fonts Poppins to HTML
