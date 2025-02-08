@@ -50,3 +50,4 @@
 ## 2025-01-25 - Refactor middleware error messages
 ## 2025-02-01 - Plan frontend component architecture
 ## 2025-02-02 - Research UI design references
+## 2025-02-08 - Fix Tailwind purge config settings
