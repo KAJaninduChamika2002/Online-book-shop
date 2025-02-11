@@ -18,3 +18,4 @@
 ## 2025-02-05 - Install and configure frontend dependencies
 ## 2025-02-07 - Add Google Fonts Poppins to HTML
 ## 2025-02-10 - Configure Vite proxy for API requests
+## 2025-02-11 - Add Tailwind custom color palette
