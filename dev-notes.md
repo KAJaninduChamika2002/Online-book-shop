@@ -20,3 +20,4 @@
 ## 2025-02-10 - Configure Vite proxy for API requests
 ## 2025-02-11 - Add Tailwind custom color palette
 ## 2025-02-13 - Write reusable button and input CSS classes
+## 2025-02-14 - Set up Swiper CSS and base styles
