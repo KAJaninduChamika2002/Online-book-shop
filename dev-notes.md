@@ -21,3 +21,4 @@
 ## 2025-02-11 - Add Tailwind custom color palette
 ## 2025-02-13 - Write reusable button and input CSS classes
 ## 2025-02-14 - Set up Swiper CSS and base styles
+## 2025-02-17 - Fix AuthContext token refresh logic
