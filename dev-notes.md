@@ -64,3 +64,4 @@
 ## 2025-01-29 - Add pagination to product list endpoint
 ## 2025-02-03 - Configure Vite environment variables
 ## 2025-02-12 - Add debounce to search input handler
+## 2025-02-21 - Improve navbar active link indicator
