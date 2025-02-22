@@ -52,3 +52,4 @@
 ## 2025-02-02 - Research UI design references
 ## 2025-02-08 - Fix Tailwind purge config settings
 ## 2025-02-16 - Add responsive breakpoint styles
+## 2025-02-22 - Fix mobile layout spacing issues
