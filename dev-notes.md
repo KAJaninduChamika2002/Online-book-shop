@@ -24,3 +24,4 @@
 ## 2025-02-17 - Fix AuthContext token refresh logic
 ## 2025-02-19 - Add cart item quantity min-max validation
 ## 2025-02-20 - Fix cart total calculation with sale price
+## 2025-02-25 - Add mobile menu toggle to navbar
