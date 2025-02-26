@@ -25,3 +25,4 @@
 ## 2025-02-19 - Add cart item quantity min-max validation
 ## 2025-02-20 - Fix cart total calculation with sale price
 ## 2025-02-25 - Add mobile menu toggle to navbar
+## 2025-02-26 - Fix search suggestion debounce timing
