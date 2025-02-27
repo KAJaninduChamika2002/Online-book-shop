@@ -65,3 +65,4 @@
 ## 2025-02-03 - Configure Vite environment variables
 ## 2025-02-12 - Add debounce to search input handler
 ## 2025-02-21 - Improve navbar active link indicator
+## 2025-02-27 - Add shimmer effect to skeleton loader
