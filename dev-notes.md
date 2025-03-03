@@ -27,3 +27,4 @@
 ## 2025-02-25 - Add mobile menu toggle to navbar
 ## 2025-02-26 - Fix search suggestion debounce timing
 ## 2025-02-28 - Add category hover animations to navbar
+## 2025-03-03 - Add loading skeleton for hero section
