@@ -29,3 +29,4 @@
 ## 2025-02-28 - Add category hover animations to navbar
 ## 2025-03-03 - Add loading skeleton for hero section
 ## 2025-03-04 - Fix Swiper autoplay on mobile devices
+## 2025-03-06 - Add category icon hover scale animation
