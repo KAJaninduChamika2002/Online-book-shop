@@ -31,3 +31,4 @@
 ## 2025-03-04 - Fix Swiper autoplay on mobile devices
 ## 2025-03-06 - Add category icon hover scale animation
 ## 2025-03-07 - Improve product card hover shadow effect
+## 2025-03-10 - Add active filter chips to shop page
