@@ -67,3 +67,4 @@
 ## 2025-02-21 - Improve navbar active link indicator
 ## 2025-02-27 - Add shimmer effect to skeleton loader
 ## 2025-03-05 - Add gradient overlay to promo banners
+## 2025-03-11 - Implement URL state sync for shop filters
