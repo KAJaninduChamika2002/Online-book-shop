@@ -34,3 +34,4 @@
 ## 2025-03-10 - Add active filter chips to shop page
 ## 2025-03-12 - Fix shop page mobile filter drawer
 ## 2025-03-13 - Add price range quick-select buttons
+## 2025-03-15 - Fix product image zoom on detail page
