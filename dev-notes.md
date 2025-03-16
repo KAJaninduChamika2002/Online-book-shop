@@ -56,3 +56,4 @@
 ## 2025-02-23 - Test components across screen sizes
 ## 2025-03-01 - Fix home page section spacing
 ## 2025-03-09 - Add product card transition timing
+## 2025-03-16 - Fix checkout form mobile layout
