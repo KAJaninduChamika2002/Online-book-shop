@@ -68,3 +68,4 @@
 ## 2025-02-27 - Add shimmer effect to skeleton loader
 ## 2025-03-05 - Add gradient overlay to promo banners
 ## 2025-03-11 - Implement URL state sync for shop filters
+## 2025-03-17 - Add empty cart illustration and message
