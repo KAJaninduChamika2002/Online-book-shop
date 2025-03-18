@@ -35,3 +35,4 @@
 ## 2025-03-12 - Fix shop page mobile filter drawer
 ## 2025-03-13 - Add price range quick-select buttons
 ## 2025-03-15 - Fix product image zoom on detail page
+## 2025-03-18 - Add stock warning badge for low inventory
