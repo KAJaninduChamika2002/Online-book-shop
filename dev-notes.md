@@ -37,3 +37,4 @@
 ## 2025-03-15 - Fix product image zoom on detail page
 ## 2025-03-18 - Add stock warning badge for low inventory
 ## 2025-03-19 - Fix review star rating click handler
+## 2025-03-21 - Add free shipping progress bar to cart
