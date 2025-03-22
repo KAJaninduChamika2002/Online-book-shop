@@ -57,3 +57,4 @@
 ## 2025-03-01 - Fix home page section spacing
 ## 2025-03-09 - Add product card transition timing
 ## 2025-03-16 - Fix checkout form mobile layout
+## 2025-03-22 - Polish admin table row hover styles
