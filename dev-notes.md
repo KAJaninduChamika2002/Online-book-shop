@@ -40,3 +40,4 @@
 ## 2025-03-21 - Add free shipping progress bar to cart
 ## 2025-03-24 - Add Sri Lanka provinces to checkout form
 ## 2025-03-25 - Fix order success page status tracking
+## 2025-03-27 - Add admin dashboard top products chart
